@@ -160,8 +160,7 @@ def do_req(verb, url, body=b'', params={}, headers={}):
 
 
 def get_laser_egg(id: str):
-    import json
-    return do_req('get', id, params={"series": "raw", "utc_offset": "0800"})
+    return do_req('get', id)
 
 
 def bytes2hex(bb: bytes):
