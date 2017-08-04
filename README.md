@@ -3,9 +3,4 @@ Kaiterra's public API allows your programs to access the air quality data report
 
 For API keys, contact us.
 
-
-
-### HTTP/REST API
-
-- Documentation: [readme](https://htmlpreview.github.io/?https://raw.githubusercontent.com/kaiterra/api/master/restv1.html)
-- Examples: [python](examples/restv1-auth.py)
+For working examples that show how to call the API, check [here](examples/restv1-auth.py).
