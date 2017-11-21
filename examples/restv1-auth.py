@@ -31,7 +31,7 @@ base_url = "https://api.origins-china.cn/v1/"
 # Controls the auth method used by this script.  Possible values are:
 # - 'url': passes the developer key in the URL
 # - 'hmac': uses the HMAC-based auth scheme in which the key itself does not appear in the network request
-auth_method = "hmac"
+auth_method = "url"
 
 # For "url" authentication:
 # Developer key passed in the 'key' parameter in the URL.
