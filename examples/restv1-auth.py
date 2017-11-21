@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 #
 # https://github.com/kaiterra/api/examples/restv1-auth.py
 # This script helps you verify that your client's HTTP requests to Kaiterra's public API
