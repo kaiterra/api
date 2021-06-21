@@ -6,7 +6,7 @@
 #
 # To use the script, do the following:
 #  1. Use pip to install packages in requirements.txt (usually pip -r requirements.txt)
-#  2. Change API_KEY to the key you created for your Kaiterra account on http://dashboard.kaiterra.cn/.
+#  2. Change API_KEY to the key you created for your Kaiterra account on http://dashboard.kaiterra.com/.
 #  3. Run the script.  It will make the request, printing out information about the auth process
 #     along the way.
 
@@ -15,7 +15,7 @@ import sys
 import requests
 
 
-API_BASE_URL = "https://api.kaiterra.cn/v1/"
+API_BASE_URL = "https://api.kaiterra.com/v1/"
 
 # TODO: replace this with the API key from your Kaiterra account
 API_KEY = "your-api-key"

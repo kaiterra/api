@@ -14,7 +14,7 @@ import sys
 import requests
 
 
-API_BASE_URL = "https://api.kaiterra.cn/v1/"
+API_BASE_URL = "https://api.kaiterra.com/v1/"
 
 # TODO: Replace this with your client ID and HMAC secret key
 CLIENT_ID = "00000000001"
